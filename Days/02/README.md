@@ -12,8 +12,9 @@ My function now only accepts two lists. This will have to be adapted to accept o
 
 ## Solution
 
-_In progress!_
+* _In progress!_
 
 ## What I Learned
 
-_In progress!_
+* Header entries can't include colons and be included in the TOC (at least using the process I'm using to create the TOC).
+* _In progress!_
