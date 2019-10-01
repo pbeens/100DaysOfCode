@@ -68,6 +68,14 @@ The goals will of course vary over time, but at least it give me a direction to 
 
 I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmorsels.com):
 
-> Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together. 
+> Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together.
 
 [[Link](Days/01-02/)]
+
+### Day 2
+
+This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have to adapt the function so it works with _n_ sets of lists (instead of just two) in a list.
+
+> For the first bonus, modify your add function to accept and "add" any number of lists-of-lists. Example: ```add([[1, 9], [7, 3]], [[5, -4], [3, 3]], [[2, 3], [-3, 1]])``` returns ```[[8, 8], [7, 7]]```
+
+[[Link](Days/02/)]

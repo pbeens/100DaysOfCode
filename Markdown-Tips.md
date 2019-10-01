@@ -20,10 +20,11 @@
 1. For a blockquote, prepend '>' to the quoted text. It will appear like this:
     > This is a blockquote.
 1. Surround your text with two asterisks (**) for **bold**.
-1. Surround your text with one asterisk (*) for *italics*.
+1. Surround your text with one asterisk (*) for *italics*. Optionally, underscores (_) also work.
 1. Surround your text with three asterisks (***) for ***bold and italic***.
 1. Pictures are formatted like this:<br>
     > ```![image info](./pictures/image.png)```
+    
 ## VS Code Extensions that Help with Markdown
 
 1. [Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl) is fantastic for pasting in links to websites. If you don't have any text highlighted when you paste the URL (using Ctrl-Alt-P) then the extension will automatically grab the title of the page and apply the link to it. What a time-saver! If you do have some text highlighted when you paste in the URL it will simply apply the URL to the highlighted text using the appropriate syntax.
