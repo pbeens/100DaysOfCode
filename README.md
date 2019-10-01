@@ -2,6 +2,10 @@
 
 The #100DaysOfCode challenge is based on the standards developed at [www.100daysofcode.com](https://www.100daysofcode.com).
 
+This repository will be used document my progress with this project.
+
+If you have any questions about anything included here, please email me at pbeens@gmail.com.
+
 ## Contents
 
 * [The Rules](#the-rules)
