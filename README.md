@@ -8,11 +8,12 @@ If you have any questions about anything included here, please email me at pbeen
 
 ## Contents
 
-  * [Contents](#contents)
-  * [The Rules](#the-rules)
-  * [My Goals](#my-goals)
-  * [Daily Log](#daily-log)
-    + [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
+- [Contents](#contents)
+- [The Rules](#the-rules)
+- [My Goals](#my-goals)
+- [Daily Log](#daily-log)
+  * [Day 1-Day 2: Add Matrices](#day-1-day-2--add-matrices)
+  * [Day 2: Bonus for Day 1 Challenge](#day-2--bonus-for-day-1-challenge)
 
 Tip: It's really easy to create your Markdown TOC [here](https://ecotrust-canada.github.io/markdown-toc/).
 
@@ -64,7 +65,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 
 ## Daily Log
 
-### Day 1-Day 2 - Add Matrices
+### Day 1-Day 2: Add Matrices
 
 I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmorsels.com):
 
@@ -72,7 +73,7 @@ I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmo
 
 [[Link](Days/01-02/)]
 
-### Day 2
+### Day 2: Bonus for Day 1 Challenge
 
 This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have to adapt the function so it works with _n_ sets of lists (instead of just two) in a list.
 
