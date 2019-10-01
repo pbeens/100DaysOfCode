@@ -8,9 +8,13 @@ If you have any questions about anything included here, please email me at pbeen
 
 ## Contents
 
-* [The Rules](#the-rules)
-* [My Goals](#my-goals)
-* [Daily Log](#daily-log)
+  * [Contents](#contents)
+  * [The Rules](#the-rules)
+  * [My Goals](#my-goals)
+  * [Daily Log](#daily-log)
+    + [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
+
+Tip: It's really easy to create your Markdown TOC [here](https://ecotrust-canada.github.io/markdown-toc/).
 
 <!--
     Create TOC at https://ecotrust-canada.github.io/markdown-toc/ and modify accordingly.
@@ -51,9 +55,19 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. This project isn't supposed to be about the tools you use to code, but I've wanted to learn Visual Studio Code for long time so I am going to do my best to use it exclusively for this project. In addition, I will document (and share) the beneficial things I learn about it.
 1. Again, about the tools... I will document everything using [Markdown](https://en.wikipedia.org/wiki/Markdown). Any tips I learn about Markdown will be document [here](Markdown-Tips.md).
 1. I will likely concentrate on Python, although [Javascript](https://twitter.com/search?q=%23100DaysOfCode%20%23javascript&src=typed_query) has quite a following amongst the #100DaysOfCode crowd.
+1. I will try to learn and adhere to Python's style guide, called '[PEP 8](https://www.python.org/dev/peps/pep-0008/)'.
 1. I have purchased a 6 month subscription to [Python Morsels](https://www.pythonmorsels.com) which offers programing challenges. I will likely start with that.
+1. I will share what I learned for each activity.
+1. I will compile a list of [useful links](Links.md) that benefited me throughout this project.
+1. I will keep track of my [more successful social media interactions](Social-Media\README..md) related to this project. 
 1. More to come...
 
 ## Daily Log
 
-* [Day 1](Days/01/)<br>I will start with the 'Add" challenge from Python Morsels.
+### Day 1-Day 2 - Add Matrices
+
+I will start with the 'Add" challenge from Python Morsels:
+
+> Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together. 
+
+[[Link](Days/01-02/)]
