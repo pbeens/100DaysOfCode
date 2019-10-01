@@ -2,7 +2,15 @@
 
 The #100DaysOfCode challenge is based on the standards developed at [www.100daysofcode.com](https://www.100daysofcode.com).
 
-[[TOC]]
+## Contents
+
+* [The Rules](#the-rules)
+* [My Goals](#my-goals)
+* [Daily Log](#daily-log)
+
+<!--
+    Create TOC at https://ecotrust-canada.github.io/markdown-toc/ and modify accordingly.
+-->
 
 ## The Rules
 
