@@ -2,9 +2,9 @@
 
 The #100DaysOfCode challenge is based on the standards developed at [www.100daysofcode.com](https://www.100daysofcode.com).
 
+[[TOC]]
 
-
-##  The Rules
+## The Rules
 
 There are two primary rules:
 
@@ -34,7 +34,7 @@ In addition, I am adding this rule at least for myself, and I would encourage ot
 
 The goals will of course vary over time, but at least it give me a direction to head in.
 
-##  My Goals
+## My Goals
 
 1. This project isn't supposed to be about the tools you use to code, but I've wanted to learn Visual Studio Code for long time so I am going to do my best to use it exclusively for this project. In addition, I will document (and share) the beneficial things I learn about it.
 1. Again, about the tools... I will document everything using [Markdown](https://en.wikipedia.org/wiki/Markdown). Any tips I learn about Markdown will be document [here](Markdown-Tips.md).
@@ -42,6 +42,6 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I have purchased a 6 month subscription to [Python Morsels](https://www.pythonmorsels.com) which offers programing challenges. I will likely start with that.
 1. More to come...
 
-##  Daily Log
+## Daily Log
 
 * [Day 1](Days/01/)<br>I will start with the 'Add" challenge from Python Morsels.
