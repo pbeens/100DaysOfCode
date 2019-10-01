@@ -39,7 +39,7 @@ I'll be breaking rule #5, as I feel that learning (and coding) from video tutori
 
 The template also mentions these additional rules which I will be following:
 
-6. Follow the [_100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode) which retweets all tweets with the #100DaysOfCode hashtag. 
+6. Follow the [100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode) which retweets all tweets with the #100DaysOfCode hashtag. 
 7. Encourage at least two other people in the challenge on Twitter every day! Pay it forward!
 
 Rule #7 will be an important one for me, as I'm developing a presentation on #100DaysOfCode where I will promoting the importance of the social benefits of this project.
@@ -59,14 +59,14 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I have purchased a 6 month subscription to [Python Morsels](https://www.pythonmorsels.com) which offers programing challenges. I will likely start with that.
 1. I will share what I learned for each activity.
 1. I will compile a list of [useful links](Links.md) that benefited me throughout this project.
-1. I will keep track of my [more successful social media interactions](Social-Media\README..md) related to this project. 
+1. I will keep track of my [more successful social media interactions](Social-Media\README.md) related to this project. 
 1. More to come...
 
 ## Daily Log
 
 ### Day 1-Day 2 - Add Matrices
 
-I will start with the 'Add" challenge from Python Morsels:
+I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmorsels.com):
 
 > Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together. 
 
