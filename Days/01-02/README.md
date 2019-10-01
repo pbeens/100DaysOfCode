@@ -4,7 +4,7 @@ This challenge comes from [Python Morsels](https://www.pythonmorsels.com/exercis
 
 Screenshot:
 
-![Add](./add_list_of_lists.png)
+![Add](./images/add_list_of_lists.png)
 
 ## My Approach
 
@@ -28,4 +28,4 @@ The solution appeared at [stackoverflow](https://stackoverflow.com/questions/967
 * Python [f-strings](https://realpython.com/python-f-strings/) are awesome. I highly recommend you use them whenever printing more than one item on a line.
 * Comments in Markdown are a pain the a$$. See [here](https://stackoverflow.com/questions/4823468/comments-in-markdown) for why.
 * When you try to refactor for the first time VS Code offers to install the required extension:
-![refactor_library](./refactor_library.png)
+![refactor_library](./images/refactor_library.png)

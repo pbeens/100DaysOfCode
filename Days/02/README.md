@@ -4,7 +4,7 @@ This challenge comes from [Python Morsels](https://www.pythonmorsels.com/exercis
 
 Screenshot:
 
-![](./2019-10-01-11-48-27.png)
+![](./images/2019-10-01-11-48-27.png)
 
 ## My Approach
 
