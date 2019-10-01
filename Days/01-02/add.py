@@ -1,5 +1,5 @@
 '''
-date: 2019-10-01
+date: 2019-09-30
 name: Peter Beens
 description: "Add" challenge from Python Morsels. See screenshot in accompanying README file.
 link: https://www.pythonmorsels.com/exercises/cb8fbdd52cf14f8cb31df4f06343cccf/ (must have subscription)

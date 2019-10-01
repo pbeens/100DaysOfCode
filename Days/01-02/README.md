@@ -6,6 +6,13 @@ Screenshot:
 
 ![Add](./images/add_list_of_lists.png)
 
+## Sections
+
+- [My Approach](#my-approach)
+- [Solution](#solution)
+- [What I Learned](#what-i-learned)
+- [Source Code](#source-code)
+
 ## My Approach
 
 The simple approach will be to break down each list of lists into a a new one dimensional list, do the math, and then parse into new lists using the length of each list to do the parsing.
@@ -14,7 +21,7 @@ The simple approach will be to break down each list of lists into a a new one di
 
 Extracting the numbers and doing the addition was fairly easy, but I had to ask the Internet how to create the new sub-lists.
 
-* [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
+- [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
 
 The solution appeared at [stackoverflow](https://stackoverflow.com/questions/9671224/split-a-python-list-into-other-sublists-i-e-smaller-lists) (where else?!!) with this code snippet that uses list comprehension, a technique I admit I have to learn better:
 
@@ -22,10 +29,14 @@ The solution appeared at [stackoverflow](https://stackoverflow.com/questions/967
 
 ## What I Learned
 
-* I have to learn more about list comprehension.
-* From [PEP 8](https://www.python.org/dev/peps/pep-0008/):
+- I have to learn more about list comprehension.
+- From [PEP 8](https://www.python.org/dev/peps/pep-0008/):
     > Function names should be lowercase, with words separated by underscores as necessary to improve readability. Variable names follow the same convention as function names.
-* Python [f-strings](https://realpython.com/python-f-strings/) are awesome. I highly recommend you use them whenever printing more than one item on a line.
-* Comments in Markdown are a pain the a$$. See [here](https://stackoverflow.com/questions/4823468/comments-in-markdown) for why.
-* When you try to refactor for the first time VS Code offers to install the required extension:
+- Python [f-strings](https://realpython.com/python-f-strings/) are awesome. I highly recommend you use them whenever printing more than one item on a line.
+- Comments in Markdown are a pain the a$$. See [here](https://stackoverflow.com/questions/4823468/comments-in-markdown) for why.
+- When you try to refactor for the first time VS Code offers to install the required extension:
 ![refactor_library](./images/refactor_library.png)
+
+## Source Code
+
+- [Link](add.py)
