@@ -35,3 +35,7 @@ Day 03
 * [https://twitter.com/pbeens/status/1179230622629449731](https://twitter.com/pbeens/status/1179230622629449731)
 
   > Interesting. What's involved in that?<br>(responding to "Working on a planning process for responsive web development with simple wireframes")
+
+* [https://twitter.com/pbeens/status/1179499653861183488](https://twitter.com/pbeens/status/1179499653861183488)
+
+  > Nice to see others using #GitHub for #100DaysOfCode. Here's mine: https://github.com/pbeens/100DaysOfCode<br>Tip: I noticed you're using absolute paths for your filenames in your code. That will get you intro trouble if you run the code elsewhere. Use relative paths instead.
