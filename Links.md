@@ -5,7 +5,7 @@
 ## Sections
 
 - [#100DaysOfCode](#-100daysofcode)
-- [GutHub](#guthub)
+- [GitHub](#github)
 - [Markdown](#markdown)
 - [Python - General](#python---general)
 - [Python - Coding](#python---coding)
@@ -18,7 +18,7 @@
 - [100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode)
 - [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 
-## GutHub
+## GitHub
 
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
