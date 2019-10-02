@@ -8,12 +8,15 @@ If you have any questions about anything included here, please email me at pbeen
 
 ## Contents
 
-- [Contents](#contents)
 - [The Rules](#the-rules)
 - [My Goals](#my-goals)
 - [Daily Log](#daily-log)
   * [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
+  * [Day 3 - GitHub Projects, Day 1 Challenge Bonus](#day-3---github-projects--day-1-challenge-bonus)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 Tip: It's really easy to create your Markdown TOC [here](https://ecotrust-canada.github.io/markdown-toc/).
 
@@ -86,6 +89,7 @@ This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have
 
 I spent some time today learning about GitHub Projects, which might be beneficial for this (#100DaysOfCode) and other projects I'm working on. Videos watched:
 
-* [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
+- [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
+- [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
 I poked away a little at the day 1 challenge bonus but it's turn out the be......a challenge!

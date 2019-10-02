@@ -21,6 +21,7 @@
 ## GutHub
 
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
+- [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
 ## Markdown
 
