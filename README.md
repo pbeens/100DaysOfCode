@@ -81,3 +81,11 @@ This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have
 > For the first bonus, modify your add function to accept and "add" any number of lists-of-lists. Example: ```add([[1, 9], [7, 3]], [[5, -4], [3, 3]], [[2, 3], [-3, 1]])``` returns ```[[8, 8], [7, 7]]```
 
 [[Link](Days/02/)]
+
+### Day 3 - GitHub Projects, Day 1 Challenge Bonus
+
+I spent some time today learning about GitHub Projects, which might be beneficial for this (#100DaysOfCode) and other projects I'm working on. Videos watched:
+
+* [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
+
+I poked away a little at the day 1 challenge bonus but it's turn out the be......a challenge!
