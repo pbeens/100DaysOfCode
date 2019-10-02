@@ -61,6 +61,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I will share what I learned for each activity.
 1. I will compile a list of [useful links](Links.md) that benefited me throughout this project.
 1. I will keep track of my [more successful social media interactions](Social-Media\README.md) related to this project. 
+1. Explore how Projects work within GitHub.
 1. More to come...
 
 ## Daily Log
