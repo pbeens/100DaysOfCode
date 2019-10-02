@@ -1,18 +1,18 @@
 # Day 0
 
-Intro info here
+*Forthcoming...*
 
 ## My Approach
 
-What I'm thinking about it goes here
+*Forthcoming...*
 
 ## Solution
 
-Comments about the solution go here
+*Forthcoming...*
 
 ## What I Learned
 
-What did I learn?
+*Forthcoming...*
 
 ## Consider
 
