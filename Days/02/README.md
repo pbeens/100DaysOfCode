@@ -12,9 +12,11 @@ My function now only accepts two lists. This will have to be adapted to accept o
 
 ## Solution
 
-* _In progress!_
+_In progress!_
+
+Sadly I wasn't able to complete this yet. I think I need to learn more about list comprehension to do this in a proper way. Yes, I can probably do it with nested loops but that's not very 'Pythonic'.
 
 ## What I Learned
 
 * Header entries can't include colons and be included in the TOC (at least using the process I'm using to create the TOC).
-* _In progress!_
+* I don't know list comprehension well enough.
