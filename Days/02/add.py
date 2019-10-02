@@ -15,15 +15,20 @@ def add(list_of_lists):
     lists = []
     for item in list_of_lists:
         lists.append(item)
+    num_sub_lists = len(lists)
+    len_of_each_sub_list = len(lists[0][0]) # assuming they're all the same! 
     if debug:
         for item in lists:
             print(item)
-    # for inner_list in matrix2:
-    #     for item in inner_list:
-    #         m2_items.append(item)
+        print(f'num of sub-lists = {num_sub_lists}')
+        print(f'length of each of sub-lists = {len_of_each_sub_list}')
+  
+    # let's traverse the lists to come up with the sums
+
+    sum_list = []
+    new_list_of_lists = [sum_list[x:x+len_of_each_sub_list] for x in range(0, len(sum_list), len_of_each_sub_list)]
     # if debug: # warm fuzzy feeling
-    #     print(f'list 1: {m1_items}')
-    #     print(f'list 2: {m2_items}')
+    #     print(f'new list of added items: {new_list_of_lists}')
 
     # do the math and put the sums in a new 1d list
     # sum_list = []
