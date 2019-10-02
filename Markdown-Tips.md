@@ -11,6 +11,7 @@
 
 ## Style Guide
 
+1. [Here's](https://github.com/DavidAnson/markdownlint/blob/v0.16.0/doc/Rules.md) a set of rules to follow for Markdown.
 1. The first line should always be a level-1 ('#') heading containing the title of the document. The title does not have to be the same as the filename.
 1. There must always be a blank line at the end of the document.
 1. Each line cannot have any trailing spaces.
