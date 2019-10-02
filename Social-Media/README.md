@@ -32,3 +32,6 @@ Day 03
 
   > Are you using #Markdown as part of your #100DaysOfCode project? I'm compiling a list of tips which may help you get started: [https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md](https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md)
   
+* [https://twitter.com/pbeens/status/1179230622629449731](https://twitter.com/pbeens/status/1179230622629449731)
+
+  > Interesting. What's involved in that?<br>(responding to "Working on a planning process for responsive web development with simple wireframes")
