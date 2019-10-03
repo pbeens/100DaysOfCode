@@ -12,7 +12,7 @@ List comprehension resource used:
 
 - [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 
-I've created a Jupyter notebook to learn about list comprehension. The resources used are documented in the notebook as well as in the [links](..\..\Links.md) file.
+I've created a [Jupyter notebook](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv) to learn about list comprehension. The resources used are documented in the notebook as well as in the [links](..\..\Links.md) file.
 
 I also used this resource to reinforce how to use `join()`:
 
@@ -29,3 +29,5 @@ new_list = [expression(i) for i in old_list if filter(i)]
 ```
 
 List comprehension is not always more efficient than the traditional way of manipulating lists, but if you have to do anything with lists that can't be done in a single line (or two) you should consider using list comprehension.
+
+> **See my Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv).**
