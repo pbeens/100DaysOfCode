@@ -62,4 +62,4 @@
 
 ## Personal
 
-- [My bio on GitHub Pages](https://pbeens.github.io/) (created in [Day 4](Days\04))
+- [My bio on GitHub Pages](https://pbeens.github.io/) (created in [[Day 4](Days/04/)])
