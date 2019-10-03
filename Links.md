@@ -55,6 +55,8 @@
 - [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
 - [Python | Merge list elements - GeeksforGeeks](https://www.geeksforgeeks.org/python-merge-list-elements/)
 - [Google Colaboratory - List Comprehension Exercises](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv)
+- [List Comprehensions - Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/en/List_Comprehensions)
+- [r/learnpython - I need list comprehension exercises to drill myself on.](https://www.reddit.com/r/learnpython/comments/4d2yl7/i_need_list_comprehension_exercises_to_drill/)
 
 ## Challenge Websites
 
@@ -62,4 +64,4 @@
 
 ## Personal
 
-- [My bio on GitHub Pages](https://pbeens.github.io/) (created in [[Day 4](Days/04/)])
+- [My bio on GitHub Pages](https://pbeens.github.io/) (created in [Day 4](Days/04/))
