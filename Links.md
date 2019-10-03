@@ -12,6 +12,7 @@
 - [Python (General)](#python--general-)
 - [Python (Lists)](#python--lists-)
 - [Challenge Websites](#challenge-websites)
+- [Personal](#personal)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -57,3 +58,7 @@
 ## Challenge Websites
 
 - [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
+
+## Personal
+
+- [My bio on GitHub Pages](https://pbeens.github.io/)
