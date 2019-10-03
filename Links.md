@@ -22,7 +22,8 @@
 
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-- [Adding notes to a project board - GitHub Help](https://help.github.com/en/articles/adding-notes-to-a-project-board). This was invaluable for learning that you can convert a note to an issue, which really helps with the workflow. 
+- [Adding notes to a project board - GitHub Help](https://help.github.com/en/articles/adding-notes-to-a-project-board). This was invaluable for learning that you can convert a note to an issue, which really helps with the workflow.
+- [Creating a GitHub Pages site - GitHub Help](https://help.github.com/en/articles/creating-a-github-pages-site)
 
 ## Markdown
 
