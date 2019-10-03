@@ -6,6 +6,8 @@
 
 - [#100DaysOfCode](#-100daysofcode)
 - [GitHub](#github)
+  * [Github Projects](#github-projects)
+  * [GitHub Pages](#github-pages)
 - [Markdown](#markdown)
 - [Python (General)](#python--general-)
 - [Python (Lists)](#python--lists-)
@@ -13,17 +15,25 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
 ## #100DaysOfCode
 
+- [My Repository](https://github.com/pbeens/100DaysOfCode)
 - [100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode)
 - [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 
 ## GitHub
 
+### Github Projects
+
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 - [Adding notes to a project board - GitHub Help](https://help.github.com/en/articles/adding-notes-to-a-project-board). This was invaluable for learning that you can convert a note to an issue, which really helps with the workflow.
+
+### GitHub Pages
+
 - [Creating a GitHub Pages site - GitHub Help](https://help.github.com/en/articles/creating-a-github-pages-site)
+- [What is GitHub Pages?](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 ## Markdown
 
