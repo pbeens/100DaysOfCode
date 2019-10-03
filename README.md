@@ -58,6 +58,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 
 1. This project isn't supposed to be about the tools you use to code, but I've wanted to learn Visual Studio Code for long time so I am going to do my best to use it exclusively for this project. In addition, I will document (and share) the beneficial things I learn about it.
 1. Again, about the tools... I will document everything using [Markdown](https://en.wikipedia.org/wiki/Markdown). Any tips I learn about Markdown will be documented [here](Markdown-Tips.md).
+1. I will also be sharing via my blogs (mostly [beens](https://www.beens.ca).ca and [beens.ca/python](https://www.beens.ca/python/)), which is something that I have seriously neglected lately.
 1. I will likely concentrate on Python, although [Javascript](https://twitter.com/search?q=%23100DaysOfCode%20%23javascript&src=typed_query) has quite a following amongst the #100DaysOfCode crowd.
 1. I will try to learn and adhere to Python's style guide, called '[PEP 8](https://www.python.org/dev/peps/pep-0008/)'.
 1. I have purchased a 6 month subscription to [Python Morsels](https://www.pythonmorsels.com) which offers programing challenges. I will likely start with that.
