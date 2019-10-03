@@ -54,6 +54,7 @@
 - [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
 - [Python | Merge list elements - GeeksforGeeks](https://www.geeksforgeeks.org/python-merge-list-elements/)
+- [Google Colaboratory - List Comprehension Exercises](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv)
 
 ## Challenge Websites
 
