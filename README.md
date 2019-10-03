@@ -13,12 +13,11 @@ If you have any questions about anything included here, please email me at pbeen
 - [Daily Log](#daily-log)
   * [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
-  * [Day 3 - GitHub Projects, Day 1 Challenge Bonus](#day-3---github-projects--day-1-challenge-bonus)
+  * [Day 3 - GitHub Projects | Day 1 Challenge Bonus | List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
+  * [Day 4 - Create Bio Page](#day-4---create-bio-page)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-Tip: It's really easy to create your Markdown TOC [here](https://ecotrust-canada.github.io/markdown-toc/).
 
 <!--
     Create TOC at https://ecotrust-canada.github.io/markdown-toc/ and modify accordingly.
@@ -86,13 +85,35 @@ This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have
 
 [[Link](Days/02/)]
 
-### Day 3 - GitHub Projects, Day 1 Challenge Bonus
+### Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension
 
 I spent some time today learning about GitHub Projects, which might be beneficial for this (#100DaysOfCode) and other projects I'm working on. Videos watched:
 
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
-I poked away a little at the day 1 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this. 
+I poked away a little at the day 1 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this.
+
+I spent quite a bit of time on a Python notebook I created to learn about list comprehension.
 
 [[Link](Days/03/)]
+
+### Day 4 - Create Bio Page - More List Comprehension
+
+### List Comprehension
+
+I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
+
+> `[c for c in s if c equals or doesn't equal something]`
+
+View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
+
+### GitHub Pages
+
+I learned that if you create a GitHub repository named `<username>.github.io` and put your content in the main [README.md](https://github.com/pbeens/pbeens.github.io/blob/master/README.md) file then it becomes the website at that URL.
+
+See mine [here](https://pbeens.github.io/)!
+
+### Other Learning
+
+I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: `, | &`
