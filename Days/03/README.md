@@ -20,7 +20,7 @@ I also used this resource to reinforce how to use `join()`:
 
 ## What I Learned
 
-VS Code doesn't wort nicely with Jupyter notebooks. Yes, it can work, but it's not friendly. (So I'm using [Colaboratory](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv) instead.)
+VS Code doesn't work nicely with Jupyter notebooks. Yes, it can work, but it's not friendly. (So I'm using [Colaboratory](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv) instead.)
 
 List comprehension is a valuable tool once you grasp it. The basic format is: 
 
