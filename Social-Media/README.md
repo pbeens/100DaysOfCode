@@ -49,4 +49,10 @@ Day 03
 
   > For #GitHub users, are you using the Projects tab on the website? I've started compiling some resources to help learn how to use it. See the "GitHub" section in this document:<br>
   https://github.com/pbeens/100DaysOfCode/blob/master/Links.md#guthub
+
+Day 4
+
+- [https://twitter.com/pbeens/status/1179790428310163458](https://twitter.com/pbeens/status/1179790428310163458)
+
+  > I just posted my first "issue" in someone else's repository on #GitHub! GitHub is such an amazing collaborative tool that I'm surprised more educators aren't using it. I'll be discussing how I'm using it as part of my #100DaysOfCode presentation at #BIT19.
   
