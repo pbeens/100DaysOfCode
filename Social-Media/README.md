@@ -22,7 +22,8 @@ Day 03
 
 * [https://twitter.com/pbeens/status/1179146781537525762](https://twitter.com/pbeens/status/1179146781537525762)
 
-  > I see you're using #Jupyter. Have you looked at Google's Colaboratory? It's a great alternative and super easy to use.<br>[https://colab.research.google.com](https://colab.research.google.com)<br>[#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click) [#Python](https://twitter.com/hashtag/Python?src=hashtag_click)
+  > I see you're using #Jupyter. Have you looked at Google's Colaboratory? It's a great alternative and super easy to use.<br>[https://colab.research.google.com](https://colab.research.google.com)<br>
+  [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click) [#Python](https://twitter.com/hashtag/Python?src=hashtag_click)
 
 * [https://twitter.com/pbeens/status/1179226475658186753](https://twitter.com/pbeens/status/1179226475658186753)
 
@@ -30,12 +31,22 @@ Day 03
 
 * [https://twitter.com/pbeens/status/1179382542337822722](https://twitter.com/pbeens/status/1179382542337822722)
 
-  > Are you using #Markdown as part of your #100DaysOfCode project? I'm compiling a list of tips which may help you get started: [https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md](https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md)
+  > Are you using #Markdown as part of your #100DaysOfCode project? I'm compiling a list of tips which may help you get started:<br>
+  [https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md](https://github.com/pbeens/100DaysOfCode/blob/master/Markdown-Tips.md)
   
 * [https://twitter.com/pbeens/status/1179230622629449731](https://twitter.com/pbeens/status/1179230622629449731)
 
-  > Interesting. What's involved in that?<br>(responding to "Working on a planning process for responsive web development with simple wireframes")
+  > Interesting. What's involved in that?<br>
+  _(responding to "Working on a planning process for responsive web development with simple wireframes")_
 
 * [https://twitter.com/pbeens/status/1179499653861183488](https://twitter.com/pbeens/status/1179499653861183488)
 
-  > Nice to see others using #GitHub for #100DaysOfCode. Here's mine: https://github.com/pbeens/100DaysOfCode<br>Tip: I noticed you're using absolute paths for your filenames in your code. That will get you intro trouble if you run the code elsewhere. Use relative paths instead.
+  > Nice to see others using #GitHub for #100DaysOfCode. Here's mine:<br>
+  https://github.com/pbeens/100DaysOfCode<br>
+  Tip: I noticed you're using absolute paths for your filenames in your code. That will get you intro trouble if you run the code elsewhere. Use relative paths instead.
+
+* [https://twitter.com/pbeens/status/1179534547479756800](https://twitter.com/pbeens/status/1179534547479756800)
+
+  > For #GitHub users, are you using the Projects tab on the website? I've started compiling some resources to help learn how to use it. See the "GitHub" section in this document:<br>
+  https://github.com/pbeens/100DaysOfCode/blob/master/Links.md#guthub
+  
