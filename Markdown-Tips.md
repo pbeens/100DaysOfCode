@@ -15,6 +15,8 @@
 1. The first line should always be a level-1 ('#') heading containing the title of the document. The title does not have to be the same as the filename.
 1. There must always be a blank line at the end of the document.
 1. Each line cannot have any trailing spaces.
+1. Use two spaces for an indent, not a tab.
+1. It's preferable to use a hyphen for unordered lists, even if asterisks work also. The Markdown linter will complain if you use different ones in your document.
 
 ## Formatting:
 
