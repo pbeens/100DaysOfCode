@@ -25,6 +25,11 @@
 1. Surround your text with three asterisks (***) for ***bold and italic***.
 1. Pictures are formatted like this:<br>
     > ```![image info](./pictures/image.png)```
+1. Codeblocks are entered like this:
+
+    ![code-block](./images/code-block.png)
+
+    Note the word 'Python' appended to the first line of back-ticks.
     
 ## VS Code Extensions that Help with Markdown
 
