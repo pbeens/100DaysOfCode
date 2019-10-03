@@ -92,4 +92,6 @@ I spent some time today learning about GitHub Projects, which might be beneficia
 - [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
-I poked away a little at the day 1 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this.
+I poked away a little at the day 1 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this. 
+
+[[Link](Days/03/)]
