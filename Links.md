@@ -7,12 +7,11 @@
 - [#100DaysOfCode](#-100daysofcode)
 - [GitHub](#github)
 - [Markdown](#markdown)
-- [Python - General](#python---general)
+- [Python (General)](#python--general-)
+- [Python (Lists)](#python--lists-)
 - [Challenge Websites](#challenge-websites)
-- [Python - Lists](#python---lists)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## #100DaysOfCode
 
@@ -31,19 +30,19 @@
 - [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](http://ecotrust-canada.github.io/markdown-toc/)
 - [Comments in Markdown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
 
-## Python - General
+## Python (General)
 
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 - [Google Colaboratory](https://colab.research.google.com)
 
-## Challenge Websites
-
-- [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
-
-## Python - Lists
+## Python (Lists)
 
 - [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
 - [Python | Merge list elements - GeeksforGeeks](https://www.geeksforgeeks.org/python-merge-list-elements/)
+
+## Challenge Websites
+
+- [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
