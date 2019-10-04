@@ -118,7 +118,7 @@ s = data_to_manipulate
 [c for c in s if c equals or doesn't equal something]
 ```
 
-View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
+View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
 
 #### GitHub Pages
 

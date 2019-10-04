@@ -39,7 +39,7 @@ s = data_to_manipulate
 [c for c in s if c equals or doesn't equal something]
 ```
 
-View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv).
+View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv).
 
 ### GitHub Pages
 
