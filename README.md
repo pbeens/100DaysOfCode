@@ -132,7 +132,7 @@ I learned that Markdown doesn't like anything other than alphanumeric characters
 
 [[Link](Days/04/)]
 
-### Day 5 (Draft)
+### Day 5 - CSS - More List Comprehension
 
 _Forthcoming..._
 
