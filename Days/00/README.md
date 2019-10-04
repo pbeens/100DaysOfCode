@@ -4,15 +4,15 @@
 
 ## My Approach
 
-*Forthcoming...*
+*forthcoming...*
 
 ## Solution
 
-*Forthcoming...*
+*forthcoming...*
 
 ## What I Learned
 
-*Forthcoming...*
+*forthcoming...*
 
 ## Consider
 
