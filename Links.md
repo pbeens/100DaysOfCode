@@ -48,6 +48,7 @@
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 - [Google Colaboratory](https://colab.research.google.com)
+- [Formatting | Python in Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)
 
 ## Python (Lists)
 
