@@ -66,6 +66,7 @@
 - [Project Euler](https://www.projecteuler.net/)
 - [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 - [HackerRank](https://www.hackerrank.com)
+- [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
 - [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course)
 - (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
 
