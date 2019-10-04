@@ -73,6 +73,7 @@ The goals will of course vary over time, but at least it give me a direction to 
     1. [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
     1. [HackerRank](https://www.hackerrank.com)
     1. (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
+1. Learn about PySimpleGUI.
 1. More to come...
 
 ## Daily Log
