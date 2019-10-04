@@ -19,11 +19,13 @@ If you have any questions about anything included here, please email me at pbeen
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
   * [Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
   * [Day 4 - Create Bio Page - More List Comprehension](#day-4---create-bio-page---more-list-comprehension)
-    * [List Comprehension](#list-comprehension)
-    * [GitHub Pages](#github-pages)
-    * [Other Learning](#other-learning)
+    + [List Comprehension](#list-comprehension)
+    + [GitHub Pages](#github-pages)
+    + [Other Learning](#other-learning)
+  * [Day 5 - CSS - More List Comprehension](#day-5---css---more-list-comprehension)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## The Rules
 
@@ -51,7 +53,7 @@ Rule #7 will be an important one for me, as I'm developing a presentation on #10
 
 In addition, I am adding this rule at least for myself, and I would encourage others to do the same:
 
-8. Write down your goals for this project! 
+8. Write down your goals for this project! (see below)
 
 The goals will of course vary over time, but at least it give me a direction to head in.
 
@@ -76,7 +78,9 @@ The goals will of course vary over time, but at least it give me a direction to 
     1. [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course)
     1. (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
 1. Learn about PySimpleGUI.
-1. More to come...?
+1. I noticed in another #100DaysOfCode participant's [source code](https://github.com/harunaadoga/100daysofcode/blob/master/fileReadWrite.py) that he's using a library called `shelve` as part of his file I/O. I'd like to investigate this.
+1. [Flutter](https://flutter.dev/) looks very cool for app development. This is a lower priority that I might not get to in the 100 days of this challenge.
+1. More to come...
 
 ## Daily Log
 
