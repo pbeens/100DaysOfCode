@@ -19,9 +19,9 @@ If you have any questions about anything included here, please email me at pbeen
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
   * [Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
   * [Day 4 - Create Bio Page - More List Comprehension](#day-4---create-bio-page---more-list-comprehension)
-  * [List Comprehension](#list-comprehension)
-  * [GitHub Pages](#github-pages)
-  * [Other Learning](#other-learning)
+    * [List Comprehension](#list-comprehension)
+    * [GitHub Pages](#github-pages)
+    * [Other Learning](#other-learning)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -102,7 +102,7 @@ I spent quite a bit of time on a Python notebook I created to learn about list c
 
 ### Day 4 - Create Bio Page - More List Comprehension
 
-### List Comprehension
+#### List Comprehension
 
 I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
 
@@ -110,12 +110,12 @@ I am learning to get the hang of list comprehension. You just have to remember t
 
 View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
 
-### GitHub Pages
+#### GitHub Pages
 
 I learned that if you create a GitHub repository named `<username>.github.io` and put your content in the main [README.md](https://github.com/pbeens/pbeens.github.io/blob/master/README.md) file then it becomes the website at that URL.
 
 See mine [here](https://pbeens.github.io/)!
 
-### Other Learning
+#### Other Learning
 
 I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: `, | &`
