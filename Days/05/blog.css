@@ -1,0 +1,27 @@
+.entry-content h1 {
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 0px;
+  line-height: 2;
+}
+
+.entry-content h2 {
+  color: #000000;
+  margin-top: -30px;
+  margin-bottom: 0px;
+  line-height: 2;
+}
+
+.entry-content h3 {
+  color: #000000;
+  margin-top: -30px;
+  margin-bottom: 0px;
+  line-height: 2;
+}
+
+.entry-content p {
+  color: #000000;
+  margin-top: 4px;
+  margin-bottom: 20px;
+  line-height: 2;
+}
