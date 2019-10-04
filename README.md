@@ -6,6 +6,10 @@ This repository will be used document my progress with this project.
 
 If you have any questions about anything included here, please email me at pbeens@gmail.com.
 
+<!--
+    Create TOC at https://ecotrust-canada.github.io/markdown-toc/ and modify accordingly.
+-->
+
 ## Contents
 
 - [The Rules](#the-rules)
@@ -13,15 +17,13 @@ If you have any questions about anything included here, please email me at pbeen
 - [Daily Log](#daily-log)
   * [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
-  * [Day 3 - GitHub Projects | Day 1 Challenge Bonus | List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
-  * [Day 4 - Create Bio Page](#day-4---create-bio-page)
+  * [Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
+  * [Day 4 - Create Bio Page - More List Comprehension](#day-4---create-bio-page---more-list-comprehension)
+  * [List Comprehension](#list-comprehension)
+  * [GitHub Pages](#github-pages)
+  * [Other Learning](#other-learning)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-<!--
-    Create TOC at https://ecotrust-canada.github.io/markdown-toc/ and modify accordingly.
--->
 
 ## The Rules
 
