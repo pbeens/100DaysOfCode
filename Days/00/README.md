@@ -1,5 +1,7 @@
 # Day 0
 
+## Today's Goal
+
 *Forthcoming...*
 
 ## My Approach
