@@ -68,6 +68,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I will keep track of my [more successful social media interactions](Social-Media\README.md) related to this project. 
 1. Explore how Projects work within GitHub.
 1. Do challenges from various sites, such as:
+    1. [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
     1. [codechalleng.es](https://codechalleng.es/bites/1/)
     1. [Project Euler](https://www.projecteuler.net/)
     1. [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
@@ -75,7 +76,7 @@ The goals will of course vary over time, but at least it give me a direction to 
     1. [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course)
     1. (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
 1. Learn about PySimpleGUI.
-1. More to come...
+1. More to come...?
 
 ## Daily Log
 
