@@ -67,6 +67,12 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I will compile a list of [useful links](Links.md) that benefited me throughout this project.
 1. I will keep track of my [more successful social media interactions](Social-Media\README.md) related to this project. 
 1. Explore how Projects work within GitHub.
+1. Do challenges from various sites, such as:
+    1. [codechalleng.es](https://codechalleng.es/bites/1/)
+    1. [Project Euler](https://www.projecteuler.net/)
+    1. [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+    1. [HackerRank](https://www.hackerrank.com)
+    1. (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
 1. More to come...
 
 ## Daily Log
@@ -119,3 +125,5 @@ See mine [here](https://pbeens.github.io/)!
 #### Other Learning
 
 I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: `, | &`
+
+[[Link](Days/04/)
