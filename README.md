@@ -113,7 +113,10 @@ I spent quite a bit of time on a Python notebook I created to learn about list c
 
 I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
 
-> `[c for c in s if c equals or doesn't equal something]`
+```python
+s = data_to_manipulate
+[c for c in s if c equals or doesn't equal something]
+```
 
 View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
 

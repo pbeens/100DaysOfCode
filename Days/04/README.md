@@ -35,7 +35,7 @@ I successfully followed the directions [here](https://help.github.com/en/article
 I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
 
 ```python
-s = ???
+s = data_to_manipulate
 [c for c in s if c equals or doesn't equal something]
 ```
 
