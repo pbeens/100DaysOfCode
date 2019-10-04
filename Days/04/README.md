@@ -34,9 +34,12 @@ I successfully followed the directions [here](https://help.github.com/en/article
 
 I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
 
-> `[c for c in s if c equals or doesn't equal something]`
+```python
+s = ???
+[c for c in s if c equals or doesn't equal something]
+```
 
-View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
+View my updated Jupyter notebook [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv).
 
 ### GitHub Pages
 
