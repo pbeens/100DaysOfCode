@@ -8,14 +8,15 @@
 - [GitHub](#github)
   * [Github Projects](#github-projects)
   * [GitHub Pages](#github-pages)
+- [JavaScript](#javascript)
 - [Markdown](#markdown)
-- [Python (General)](#python--general-)
-- [Python (Lists)](#python--lists-)
+- [Python](#python)
+  * [Python (General)](#python--general-)
+  * [Python (Lists)](#python--lists-)
 - [Challenge Websites](#challenge-websites)
 - [Personal](#personal)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## #100DaysOfCode
 
@@ -36,13 +37,19 @@
 - [Creating a GitHub Pages site - GitHub Help](https://help.github.com/en/articles/creating-a-github-pages-site)
 - [What is GitHub Pages?](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
+## JavaScript
+
+- [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
+
 ## Markdown
 
 - [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 - [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](http://ecotrust-canada.github.io/markdown-toc/)
 - [Comments in Markdown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
 
-## Python (General)
+## Python
+
+### Python (General)
 
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
@@ -50,7 +57,7 @@
 - [Google Colaboratory](https://colab.research.google.com)
 - [Formatting | Python in Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)
 
-## Python (Lists)
+### Python (Lists)
 
 - [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
