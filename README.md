@@ -78,6 +78,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I noticed in another #100DaysOfCode participant's [source code](https://github.com/harunaadoga/100daysofcode/blob/master/fileReadWrite.py) that he's using a library called `shelve` as part of his file I/O. I'd like to investigate this.
 1. Learn how to use machine learning to adapt aircraft performance charts into a program. (To go along with my flying and ground school lessons.)
 1. [Flutter](https://flutter.dev/) looks very cool for app development. This is a lower priority that I might not get to in the 100 days of this challenge.
+1. [Create a Twitter Bot.](https://www.labnol.org/internet/write-twitter-bot/27902/)
 1. More to come...
 
 ## Daily Learning
