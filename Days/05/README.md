@@ -83,4 +83,4 @@ With these resources I was able to make great progress on my Day 2 challenge but
 
 View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv). See the Resource 2 section for the code applicable to what I did today.
 
-View my Python code for the Day 2 challenge [here](..\02\add.py) in the Day 2 folder. Remember, as of today, it's incomplete.
+View my Python code for the Day 2 challenge [here](../02/add.py) in the Day 2 folder. Remember, as of today, it's incomplete.
