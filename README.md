@@ -22,10 +22,12 @@ If you have any questions about anything included here, please email me at pbeen
     + [List Comprehension](#list-comprehension)
     + [GitHub Pages](#github-pages)
     + [Other Learning](#other-learning)
-  * [Day 5 - CSS - More List Comprehension](#day-5---css---more-list-comprehension)
+  * [Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension](#day-5---css---blog-css---auto-formatting-python-in-vs-code---more-list-comprehension)
+  * [Blog CSS](#blog-css)
+  * [Auto-formatting Python in VS Code](#auto-formatting-python-in-vs-code)
+  * [List Comprehension](#list-comprehension-1)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## The Rules
 
