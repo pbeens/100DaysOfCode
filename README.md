@@ -138,8 +138,41 @@ I learned that Markdown doesn't like anything other than alphanumeric characters
 
 [[Link](Days/04/)]
 
-### Day 5 - CSS - More List Comprehension
+### Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension
 
-_Forthcoming..._
+### Blog CSS
+
+My CSS knowledge is very limited. Fortunately there are lots of great resources available to help when needed.
+
+### Auto-formatting Python in VS Code
+
+These are the settings I changed to get VS Code to auto-format my Python code:
+
+```
+"editor.formatOnSave": true`
+"python.formatting.provider": "autopep8"
+```
+[[Source](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)]
+
+### List Comprehension
+
+I came across this great animation that is perfect for demonstrating how list comprehensions are assembled:
+
+> ![list comprehension](Days\05\list-comprehension-condition.gif)
+<br>[[Credit](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)]
+
+This site helped me tremendously with flattening and recreating matrices:
+
+- [Python List Comprehensions: Explained Visually - Trey Hunner](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+
+This site helped me add the individual elements of each list:
+
+- [Nested list comprehension with two lists](https://stackoverflow.com/questions/16568056/nested-list-comprehension-with-two-lists)
+
+With these resources I was able to make great progress on my Day 2 challenge but it's not quite perfect yet. It will add matrices with sub-lists of len=2 but not others. I'll work on that next day...
+
+View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv). See the Resource 2 section for the code applicable to what I did today.
+
+View my Python code for the Day 2 challenge here in the Day 2 folder. Remember, as of today, it's incomplete.
 
 [[Link](Days/05/)]
