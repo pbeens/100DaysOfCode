@@ -58,6 +58,9 @@
 - [Google Colaboratory - List Comprehension Exercises](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv)
 - [List Comprehensions - Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/en/List_Comprehensions)
 - [r/learnpython - I need list comprehension exercises to drill myself on.](https://www.reddit.com/r/learnpython/comments/4d2yl7/i_need_list_comprehension_exercises_to_drill/)
+- [Python List Comprehensions: Explained Visually - Trey Hunner](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+- [How do you split a list into evenly sized chunks?](https://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks)
+- [Nested list comprehension with two lists](https://stackoverflow.com/questions/16568056/nested-list-comprehension-with-two-lists)
 
 ## Challenge Websites
 
