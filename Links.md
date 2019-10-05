@@ -5,6 +5,7 @@
 ## Sections
 
 - [#100DaysOfCode](#-100daysofcode)
+- [Assembly Language](#assembly-language)
 - [GitHub](#github)
   * [Github Projects](#github-projects)
   * [GitHub Pages](#github-pages)
@@ -23,6 +24,10 @@
 - [My Repository](https://github.com/pbeens/100DaysOfCode)
 - [100DaysOfCode Twitter Bot](https://twitter.com/_100DaysOfCode)
 - [Join the #100DaysOfCode](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
+
+## Assembly Language
+
+- [Microprocessor Simulator for Students](http://www.softwareforeducation.com/sms32v50/)
 
 ## GitHub
 
