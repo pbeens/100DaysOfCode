@@ -23,9 +23,9 @@ If you have any questions about anything included here, please email me at pbeen
     + [GitHub Pages](#github-pages)
     + [Other Learning](#other-learning)
   * [Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension](#day-5---css---blog-css---auto-formatting-python-in-vs-code---more-list-comprehension)
-  * [Blog CSS](#blog-css)
-  * [Auto-formatting Python in VS Code](#auto-formatting-python-in-vs-code)
-  * [List Comprehension](#list-comprehension-1)
+    + [Blog CSS](#blog-css)
+    + [Auto-formatting Python in VS Code](#auto-formatting-python-in-vs-code)
+    + [List Comprehension](#list-comprehension-1)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -142,11 +142,11 @@ I learned that Markdown doesn't like anything other than alphanumeric characters
 
 ### Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension
 
-### Blog CSS
+#### Blog CSS
 
 My CSS knowledge is very limited. Fortunately there are lots of great resources available to help when needed.
 
-### Auto-formatting Python in VS Code
+#### Auto-formatting Python in VS Code
 
 These are the settings I changed to get VS Code to auto-format my Python code:
 
@@ -156,7 +156,7 @@ These are the settings I changed to get VS Code to auto-format my Python code:
 ```
 [[Source](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)]
 
-### List Comprehension
+#### List Comprehension
 
 I came across this great animation that is perfect for demonstrating how list comprehensions are assembled:
 
