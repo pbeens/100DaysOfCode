@@ -160,7 +160,7 @@ These are the settings I changed to get VS Code to auto-format my Python code:
 
 I came across this great animation that is perfect for demonstrating how list comprehensions are assembled:
 
-> ![list comprehension](Days\05\list-comprehension-condition.gif)
+> ![list comprehension](Days/05/list-comprehension-condition.gif)
 <br>[[Credit](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)]
 
 This site helped me tremendously with flattening and recreating matrices:
