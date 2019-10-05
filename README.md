@@ -14,18 +14,13 @@ If you have any questions about anything included here, please email me at pbeen
 
 - [The Rules](#the-rules)
 - [My Goals](#my-goals)
-- [Daily Log](#daily-log)
-  * [Day 1-Day 2 - Add Matrices](#day-1-day-2---add-matrices)
+- [Daily Learning](#daily-learning)
+  * [Day 1-Day 2 - Add Matrices Challenge](#day-1-day-2---add-matrices-challenge)
   * [Day 2 - Bonus for Day 1 Challenge](#day-2---bonus-for-day-1-challenge)
-  * [Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension](#day-3---github-projects---day-1-challenge-bonus---list-comprehension)
-  * [Day 4 - Create Bio Page - More List Comprehension](#day-4---create-bio-page---more-list-comprehension)
-    + [List Comprehension](#list-comprehension)
-    + [GitHub Pages](#github-pages)
-    + [Other Learning](#other-learning)
+  * [Day 3 - GitHub Projects - Day 2 Challenge Bonus - List Comprehension](#day-3---github-projects---day-2-challenge-bonus---list-comprehension)
+  * [Day 4 - Create Bio Page - More List Comprehension - Other](#day-4---create-bio-page---more-list-comprehension---other)
   * [Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension](#day-5---css---blog-css---auto-formatting-python-in-vs-code---more-list-comprehension)
-    + [Blog CSS](#blog-css)
-    + [Auto-formatting Python in VS Code](#auto-formatting-python-in-vs-code)
-    + [List Comprehension](#list-comprehension-1)
+  * [Day 6 - Maintaining This Site - More List Comprehension](#day-6---maintaining-this-site---more-list-comprehension)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -84,97 +79,46 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. [Flutter](https://flutter.dev/) looks very cool for app development. This is a lower priority that I might not get to in the 100 days of this challenge.
 1. More to come...
 
-## Daily Log
+## Daily Learning
 
-### Day 1-Day 2 - Add Matrices
+### Day 1-Day 2 - Add Matrices Challenge
 
 I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmorsels.com):
 
 > Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together.
 
-[[Link](Days/01-02/)]
+View my day 1-2 notes [here](Days/01/README.md). [[Folder Link](Days/01-02/)]
 
 ### Day 2 - Bonus for Day 1 Challenge
 
-This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have to adapt the function so it works with _n_ sets of lists (instead of just two) in a list.
+Sadly I don't have the list comprehension skills needed to do this challenge properly (read: Pythonically) so I'm pursuing some list comprehension exercises to do. 
 
-> For the first bonus, modify your add function to accept and "add" any number of lists-of-lists. Example: ```add([[1, 9], [7, 3]], [[5, -4], [3, 3]], [[2, 3], [-3, 1]])``` returns ```[[8, 8], [7, 7]]```
+I've also learned that creating the TOC on Markdown pages like these has limitations with the characters that can be used in the headings).
 
-[[Link](Days/02/)]
+View my day 2 notes [here](Days/02/README.md). [[Folder Link](Days/02/)]
 
-### Day 3 - GitHub Projects - Day 1 Challenge Bonus - List Comprehension
+### Day 3 - GitHub Projects - Day 2 Challenge Bonus - List Comprehension
 
-I spent some time today learning about GitHub Projects, which might be beneficial for this (#100DaysOfCode) and other projects I'm working on. Videos watched:
-
-- [GitHub Project Management Tutorial - How To Use GitHub Projects & Automation](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
-- [Github Project Management 1](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-
-I poked away a little at the day 1 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this.
+I poked away a little at the day 2 challenge bonus but it's turning out the be......a challenge! I've decided I wanted to learn more about list comprehension before I continue with this.
 
 I spent quite a bit of time on a Python notebook I created to learn about list comprehension.
 
-[[Link](Days/03/)]
+View my day 3 notes [here](Days/03/README.md). [[Folder Link](Days/03/)]
 
-### Day 4 - Create Bio Page - More List Comprehension
+### Day 4 - Create Bio Page - More List Comprehension - Other
 
-#### List Comprehension
+Today I reinforced my list comprehension skills, created a bio page on GitHub Pages, and learned more about the limitations of creating a TOC in Markdown.
 
-I am learning to get the hang of list comprehension. You just have to remember the basic format, which is:
-
-```python
-s = data_to_manipulate
-[c for c in s if c equals or doesn't equal something]
-```
-
-View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv#scrollTo=2jpxdgBu3rqc).
-
-#### GitHub Pages
-
-I learned that if you create a GitHub repository named `<username>.github.io` and put your content in the main [README.md](https://github.com/pbeens/pbeens.github.io/blob/master/README.md) file then it becomes the website at that URL.
-
-See mine [here](https://pbeens.github.io/)!
-
-#### Other Learning
-
-I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: `, | &`
-
-[[Link](Days/04/)]
+View my day 4 notes [here](Days/04/README.md). [[Folder Link](Days/04/)]
 
 ### Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension
 
-#### Blog CSS
+Today I edited the CSS on my website, learned how to auto-format my Python code in VS Code, and got my day 2 challenge close to being complete by learning more about list comprehension.
 
-My CSS knowledge is very limited. Fortunately there are lots of great resources available to help when needed.
+View my day 5 notes [here](Days/05/README.md). [[Folder Link](Days/05/)]
 
-#### Auto-formatting Python in VS Code
+### Day 6 - Maintaining This Site - More List Comprehension
 
-These are the settings I changed to get VS Code to auto-format my Python code:
+_Forthcoming..._
 
-```
-"editor.formatOnSave": true`
-"python.formatting.provider": "autopep8"
-```
-[[Source](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)]
-
-#### List Comprehension
-
-I came across this great animation that is perfect for demonstrating how list comprehensions are assembled:
-
-> ![list comprehension](Days/05/list-comprehension-condition.gif)
-<br>[[Credit](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)]
-
-This site helped me tremendously with flattening and recreating matrices:
-
-- [Python List Comprehensions: Explained Visually - Trey Hunner](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
-
-This site helped me add the individual elements of each list:
-
-- [Nested list comprehension with two lists](https://stackoverflow.com/questions/16568056/nested-list-comprehension-with-two-lists)
-
-With these resources I was able to make great progress on my Day 2 challenge but it's not quite perfect yet. It will add matrices with sub-lists of len=2 but not others. I'll work on that next day...
-
-View my updated Jupyter notebook of exercises [here](https://colab.research.google.com/drive/1fbmH9yDS5fzFcxEZMnUzmb3qCqGQoaEv). See the Resource 2 section for the code applicable to what I did today.
-
-View my Python code for the Day 2 challenge here in the Day 2 folder. Remember, as of today, it's incomplete.
-
-[[Link](Days/05/)]
+View my day 6 notes [here](Days/06/README.md). [[Folder Link](Days/06/)]

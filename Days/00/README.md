@@ -1,21 +1,23 @@
 # Day 0
 
-## Today's Goal
+## Contents
 
-*Forthcoming...*
+http://ecotrust-canada.github.io/markdown-toc/
 
-## My Approach
-
-*forthcoming...*
-
-## Solution
+## Today's Goal(s)
 
 *forthcoming...*
 
 ## What I Learned
 
+### Section 1
+
+*forthcoming...*
+
+### Section 2
+
 *forthcoming...*
 
 ## Consider
 
-Any links to add to [Links.md](..\..\Links.md)? (delete this section afterwards)
+Any links to add to [Links.md](../../Links.md)? (delete this section afterwards)
