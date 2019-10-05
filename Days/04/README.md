@@ -8,7 +8,7 @@ I also got interested yesterday in someone's GitHub.io biography which made me w
 
 ### List Comprehension
 
-To find more resources with exercises and to come up with exercises on my own. I will expand on the existing [Python notebook](..\03\list_comp.ipynb) I created in day 3.
+To find more resources with exercises and to come up with exercises on my own. I will expand on the existing [Python notebook](../03/list_comp.ipynb) I created in day 3.
 
 Google might be a good start:
 
@@ -22,7 +22,7 @@ To find (and follow) a resource related to creating pages on githib.io (AKA GitH
 
 ### List Comprehension
 
-[This discussion](https://www.reddit.com/r/learnpython/comments/4d2yl7/i_need_list_comprehension_exercises_to_drill/) on Reddit had quite a few challenges that I was able to incorporate into my [notebook](..\03\list_comp.ipynb).
+[This discussion](https://www.reddit.com/r/learnpython/comments/4d2yl7/i_need_list_comprehension_exercises_to_drill/) on Reddit had quite a few challenges that I was able to incorporate into my [notebook](../03/list_comp.ipynb).
 
 ### GitHub Pages
 

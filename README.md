@@ -64,7 +64,7 @@ The goals will of course vary over time, but at least it give me a direction to 
 1. I have purchased a 6 month subscription to [Python Morsels](https://www.pythonmorsels.com) which offers programing challenges. I will likely start with that.
 1. I will share what I learned for each activity.
 1. I will compile a list of [useful links](Links.md) that benefited me throughout this project.
-1. I will keep track of my [more successful social media interactions](Social-Media\README.md) related to this project. 
+1. I will keep track of my [more successful social media interactions](Social-Media/README.md) related to this project. 
 1. Explore how Projects work within GitHub.
 1. Do challenges from various sites, such as:
     1. [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
