@@ -49,4 +49,6 @@ See mine [here](https://pbeens.github.io/)!
 
 ### Other Learning
 
-I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: `, | &`
+I learned that Markdown doesn't like anything other than alphanumeric characters and hyphens in the headers if you want to create a table of contents. All of these were a no-go: 
+
+> , | & ' " `
