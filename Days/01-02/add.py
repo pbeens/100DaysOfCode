@@ -9,6 +9,18 @@ debug = False  # boolean variable used when I want feeback on some variables
 
 
 def add(m1, m2):
+
+    # error trapping routines
+    if len(m1) != len(m2):
+        raise ValueError('Given matrices are not the same size.') 
+    ref_len = len(m1[0])
+    for m in m1:
+        if len(m) != ref_len:
+            raise ValueError('Given matrices are not the same size.')
+    for m in m2:
+        if len(m) != ref_len:
+            raise ValueError('Given matrices are not the same size.')
+
     # extract the list items and put in new lists
     m1_flattened = [n for row in m1 for n in row]
     m2_flattened = [n for row in m2 for n in row]
