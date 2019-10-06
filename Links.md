@@ -61,6 +61,12 @@
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 - [Google Colaboratory](https://colab.research.google.com)
 - [Formatting | Python in Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/)
+- [How to loop with indexes in Python](http://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/)
+- [Multiple assignment and tuple unpacking improve Python code readability - Trey Hunner](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
+- [Asterisks in Python: what they are and how to use them - Trey Hunner](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/#Asterisks_for_packing_arguments_given_to_function)
+- [What does ** (double star/asterisk) and * (star/asterisk) do for parameters?](https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters/36908#36908)
+- [Manually raising (throwing) an exception in Python](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)
+- [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 
 ### Python (Lists)
 
