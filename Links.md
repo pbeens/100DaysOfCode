@@ -67,7 +67,6 @@
 - [What does ** (double star/asterisk) and * (star/asterisk) do for parameters?](https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters/36908#36908)
 - [Manually raising (throwing) an exception in Python](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
-- [Find average of a list in python - GeeksforGeeks](https://www.geeksforgeeks.org/find-average-list-python/)
 
 ### Python (Lists)
 
@@ -80,6 +79,8 @@
 - [Python List Comprehensions: Explained Visually - Trey Hunner](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 - [How do you split a list into evenly sized chunks?](https://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks)
 - [Nested list comprehension with two lists](https://stackoverflow.com/questions/16568056/nested-list-comprehension-with-two-lists)
+- [Using the Python zip() Function for Parallel Iteration – Real Python](https://realpython.com/python-zip-function/)
+- [Find average of a list in python - GeeksforGeeks](https://www.geeksforgeeks.org/find-average-list-python/)
 
 ## Challenge Websites
 
