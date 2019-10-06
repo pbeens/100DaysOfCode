@@ -13,11 +13,11 @@
 
 Today's challenge comes from [Python Morsels](https://www.pythonmorsels.com/exercises/cb8fbdd52cf14f8cb31df4f06343cccf/) (you must have a current subscription to access this link).
 
-This is a bonus session for the [Day 1](Days/01-02/) challenge. I basically have to adapt the function so it works with _n_ sets of lists (instead of just two) in a list.
+This is a bonus session for the [Day 1](../01-02/) challenge. I basically have to adapt the function so it works with _n_ sets of lists (instead of just two) in a list.
 
 Screenshot:
 
-![](./images/2019-10-01-11-48-27.png)
+!["bonus"](./images/2019-10-01-11-48-27.png)
 
 Note: the [test_add.py](test_add.py) file included in this folder comes as part of the challenge for testing my solution.
 
