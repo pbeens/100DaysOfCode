@@ -14,3 +14,5 @@
 ### 004-Finding-the-percentage.py
 ![](004-Finding-the-percentage.png)
 
+### 005-Lists.py
+![](005-Lists.png)
