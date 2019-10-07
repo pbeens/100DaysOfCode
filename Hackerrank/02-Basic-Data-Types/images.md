@@ -16,3 +16,7 @@
 
 ### 005-Lists.py
 ![](005-Lists.png)
+
+### 006-Tuples.py
+![](006-Tuples.png)
+
