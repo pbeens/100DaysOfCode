@@ -12,8 +12,8 @@
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [Python](#python)
-  * [Python (General)](#python--general-)
-  * [Python (Lists)](#python--lists-)
+  * [Python - General](#python---general)
+  * [Python - Lists](#python---lists)
 - [Challenge Websites](#challenge-websites)
 - [Personal](#personal)
 
@@ -54,7 +54,7 @@
 
 ## Python
 
-### Python (General)
+### Python - General
 
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
@@ -68,7 +68,7 @@
 - [Manually raising (throwing) an exception in Python](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 
-### Python (Lists)
+### Python - Lists
 
 - [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [https://www.google.com/search?q=split+python+list+into+sublists](https://www.google.com/search?q=split+python+list+into+sublists)
