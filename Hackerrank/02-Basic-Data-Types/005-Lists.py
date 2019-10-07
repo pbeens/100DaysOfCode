@@ -1,6 +1,8 @@
 # 005-Lists.py
 # https://www.hackerrank.com/challenges/python-lists/problem
 
+# I had to be careful about this because '10' comes before '2' when sorted, meaning I had to convert all the numbers to integers before adding to the list.
+
 sample_data = '''12
 insert 0 5
 insert 1 10
