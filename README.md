@@ -119,8 +119,18 @@ Today I edited the CSS on my website, learned how to auto-format my Python code 
 
 View my day 5 notes [here](Days/05/README.md). [[Folder Link](Days/05/)]
 
-### Day 6 - Maintaining This Site - More List Comprehension
+### Day 6 - Maintaining This Site - More List Comprehension - Hackerrank Challenges
 
-_Forthcoming..._
+I spent some time re-thinking how I process this site. I had too much duplication going on but hopefully now I can be more efficient with writing up my activities and progress.
+
+I finished the 1st bonus section the day 2 challenge thank to what I was able to learn about list comprehension.
+
+I started working on challenges from the [Hackerrank](https://www.hackerrank.com) website. 
 
 View my day 6 notes [here](Days/06/README.md). [[Folder Link](Days/06/)]
+
+### Day 7 - Hackerrank Challenges
+
+Today I reinforced the basic data types including lists, dictionaries, and tuples by completing a number of [Hackerrank](https://www.hackerrank.com) challenges.
+
+View my day 7 notes [here](Days/07/README.md). [[Folder Link](Days/07/)]
