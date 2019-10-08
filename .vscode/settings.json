@@ -2,5 +2,6 @@
     "pasteImage.basePath": "${currentFileDir}/images",
     "pasteImage.defaultName": "YYYY-MM-DD-HH-mm-ss",
     "pasteImage.showFilePathConfirmInputBox": true,
-    "python.pythonPath": "C:\\Python37-32\\python.exe"
+    "python.pythonPath": "C:\\Python37-32\\python.exe",
+    "pasteImage.filePathConfirmInputBoxMode": "onlyName"
 }
