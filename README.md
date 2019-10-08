@@ -20,9 +20,11 @@ If you have any questions about anything included here, please email me at pbeen
   * [Day 3 - GitHub Projects - Day 2 Challenge Bonus - List Comprehension](#day-3---github-projects---day-2-challenge-bonus---list-comprehension)
   * [Day 4 - Create Bio Page - More List Comprehension - Other](#day-4---create-bio-page---more-list-comprehension---other)
   * [Day 5 - CSS - Blog CSS - Auto-formatting Python in VS Code - More List Comprehension](#day-5---css---blog-css---auto-formatting-python-in-vs-code---more-list-comprehension)
-  * [Day 6 - Maintaining This Site - More List Comprehension](#day-6---maintaining-this-site---more-list-comprehension)
+  * [Day 6 - Maintaining This Site - More List Comprehension - Hackerrank Challenges](#day-6---maintaining-this-site---more-list-comprehension---hackerrank-challenges)
+  * [Day 7-8 - Hackerrank Challenges](#day-7-8---hackerrank-challenges)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## The Rules
 
@@ -129,7 +131,7 @@ I started working on challenges from the [Hackerrank](https://www.hackerrank.com
 
 View my day 6 notes [here](Days/06/README.md). [[Folder Link](Days/06/)]
 
-### Day 7 - Hackerrank Challenges
+### Day 7-8 - Hackerrank Challenges
 
 Today I reinforced the basic data types including lists, dictionaries, and tuples by completing a number of [Hackerrank](https://www.hackerrank.com) challenges.
 
