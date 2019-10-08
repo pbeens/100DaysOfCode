@@ -67,6 +67,7 @@
 - [What does ** (double star/asterisk) and * (star/asterisk) do for parameters?](https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters/36908#36908)
 - [Manually raising (throwing) an exception in Python](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
+- [Learning Python: Programming and Data Structures- Tutorial 12- String Manipulation - The Learning Point](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
 
 ### Python - Lists
 
@@ -93,6 +94,14 @@
 - [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course)
 - [Dan Nolan (@BeingDanNolan) | Twitter](https://twitter.com/BeingDanNolan)
 - (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
+
+## VS Code
+
+- [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+- [10 Visual Studio Code extensions for Python development](https://medium.com/issuehunt/10-visual-studio-code-extensions-for-python-development-be51fdde04c9)
+- [SuperPasteURL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alincode.SuperPasteURL) (also [Paste URL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl))
+- [MarkDown Link Suggestions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
+- [markdownlint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 ## Personal
 
