@@ -18,3 +18,5 @@
 ### 006-String-Validators.py
 ![006-String-Validators](006-String-Validators.png)
 
+### 007-Text-Alignment.py
+![007-Text-Alignment](007-Text-Alignment.png)
