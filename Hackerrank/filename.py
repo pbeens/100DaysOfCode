@@ -1,7 +1,9 @@
+# This utility lets me enter the exercise number and name and it will produce a filename that I can use to create the file. Yes, I'm lazy...
+
 import string
 
-n = '010'
-s = 'String Formatting'
+n = '011'
+s = 'Alphabet Rangoli'
 
-s_new = s.replace(' ', '-')
+s_new = s.replace(' ', '-')  # no spaces in filename!
 print(f'{n}-{s_new}.py')
