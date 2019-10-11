@@ -68,6 +68,8 @@
 - [Manually raising (throwing) an exception in Python](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)
 - [Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
 - [Learning Python: Programming and Data Structures- Tutorial 12- String Manipulation - The Learning Point](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
+- [Pythonforbeginners.com](https://www.pythonforbeginners.com/)
+- [Python Websites and Tutorials](https://www.pythonforbeginners.com/basics/python-websites-tutorials)
 
 ### Python - Lists
 
