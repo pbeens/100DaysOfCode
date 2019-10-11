@@ -20,3 +20,12 @@
 
 ### 007-Text-Alignment.py
 ![007-Text-Alignment](007-Text-Alignment.png)
+
+### 008-Text-Wrap.py
+!['008-Text-Wrap'](008-Text-Wrap.png)
+
+### 009-Designer-Door-Mat.py
+!['009-Designer-Door-Mat'](009-Designer-Door-Mat.png)
+
+### 010-String Formatting.py
+![](010-String-Formatting.png)

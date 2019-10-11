@@ -1,4 +1,4 @@
-# Day 7-9
+# Day 7-10
 
 ## Today's Goals
 
@@ -19,5 +19,7 @@ Reinforced many boolean string methods.
 Shared this great [Tweet](https://twitter.com/python_tip/status/1181958913283018753) about list comprehension:
 
 !["list comprehension"](List-Comprehension.png)
+
+I did not know about the `textwrap` library. This makes wrapping text so easy! [[tutorial link](https://www.hackerrank.com/challenges/text-wrap/tutorial)]
 
 See the [Hackerrank folder](../../Hackerrank/) for today's work.

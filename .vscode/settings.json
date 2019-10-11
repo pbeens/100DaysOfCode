@@ -2,7 +2,7 @@
     "pasteImage.basePath": "${currentFileDir}/images",
     "pasteImage.defaultName": "YYYY-MM-DD-HH-mm-ss",
     "pasteImage.showFilePathConfirmInputBox": true,
-    "python.pythonPath": "/home/peter/anaconda3/bin/python",
+    "python.pythonPath": "C:\\Python37-32\\python.exe",
     "pasteImage.filePathConfirmInputBoxMode": "onlyName",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
