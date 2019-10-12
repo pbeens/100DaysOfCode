@@ -36,4 +36,5 @@
 ### 012-Capitalize.py
 ![012-Capitalize](012-Capitalize.png)
 
-
+### 013-The-Minions-Game.py
+![](013-The-Minions-Game.png)

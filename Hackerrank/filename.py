@@ -2,8 +2,8 @@
 
 import string
 
-n = '012'
-s = 'Capitalize'
+n = '013'
+s = 'The-Minions-Game'
 
 s_new = s.replace(' ', '-')  # no spaces in filename!
 print(f'{n}-{s_new}.py')
