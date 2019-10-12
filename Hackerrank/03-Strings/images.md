@@ -32,3 +32,8 @@
 
 ### 011-Alphabet-Rangoli.py
 ![](011-Alphabet-Rangoli.png)
+
+### 012-Capitalize.py
+![012-Capitalize](012-Capitalize.png)
+
+

@@ -1,20 +1,9 @@
 # 011-Alphabet-Rangoli.py
 # https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 
+# solution from https://www.hackerrank.com/challenges/alphabet-rangoli/editorial
 
-debug = True
-
-
-def print_rangoli(size):
-    # top half
-    for i in range(size, 0, -1):
-        print(i)
-    # middle line
-    print('middle line')
-    # bottom half
-    for i in range(1, size+1):
-        print(i)
-
+debug = False
 
 # input
 if debug:
@@ -22,4 +11,11 @@ if debug:
 else:
     n = int(input())
 
-print_rangoli(n)
+# output
+for i in range(n):
+    s = "-".join(chr(ord('a')+n-j-1) for j in range(i+1))
+    print((s+s[::-1][1:]).center(n*4-3, '-'))
+
+for i in range(n-1):
+    s = "-".join(chr(ord('a')+n-j-1) for j in range(n-i-1))
+    print((s+s[::-1][1:]).center(n*4-3, '-'))
