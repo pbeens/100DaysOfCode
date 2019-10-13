@@ -96,6 +96,7 @@
 - [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course)
 - [Dan Nolan (@BeingDanNolan) | Twitter](https://twitter.com/BeingDanNolan)
 - (See also [The 10 most popular coding challenge websites for 2017](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/))
+- [Advent of Code](https://adventofcode.com/) (There are multiple years. Just change the URL.)
 
 ## VS Code
 
