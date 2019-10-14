@@ -18,7 +18,7 @@ def average(array):
     # convert to set
     heights_set = set(array)
     # calc avg and output
-    return(sum(heights_set)/len(heights_set))
+    return (sum(heights_set) / len(heights_set))
 
 
 if __name__ == '__main__':
