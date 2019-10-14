@@ -22,4 +22,6 @@ Shared this great [Tweet](https://twitter.com/python_tip/status/1181958913283018
 
 I did not know about the `textwrap` library. This makes wrapping text so easy! [[tutorial link](https://www.hackerrank.com/challenges/text-wrap/tutorial)]
 
+---
+
 See the [Hackerrank folder](../../Hackerrank/) for today's work.
