@@ -38,3 +38,6 @@
 
 ### 013-The-Minions-Game.py
 ![](013-The-Minions-Game.png)
+
+### 014-Merge-the-Tools.py
+![](014-Merge-the-Tools.png)
