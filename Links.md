@@ -70,6 +70,7 @@
 - [Learning Python: Programming and Data Structures- Tutorial 12- String Manipulation - The Learning Point](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
 - [Pythonforbeginners.com](https://www.pythonforbeginners.com/)
 - [Python Websites and Tutorials](https://www.pythonforbeginners.com/basics/python-websites-tutorials)
+- [How do I get time of a Python program's execution?](https://stackoverflow.com/questions/1557571/how-do-i-get-time-of-a-python-programs-execution)
 
 ### Python - Lists
 
