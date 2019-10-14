@@ -6,10 +6,10 @@ import string
 
 
 # update these variables with the challenge info
-folder = '03-Strings'
-url = 'https://www.hackerrank.com/challenges/merge-the-tools/problem'
-n = '014'
-s = 'Merge the Tools'
+folder = '04-Sets'
+url = 'https://www.hackerrank.com/challenges/no-idea/problem'
+n = '01'
+s = 'No Idea'
 
 
 # quietly create the directory if it doesn't exist
