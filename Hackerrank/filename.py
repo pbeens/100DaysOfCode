@@ -7,9 +7,9 @@ import string
 
 # update these variables with the challenge info
 folder = '04-Sets'
-url = 'https://www.hackerrank.com/challenges/no-idea/problem'
-n = '01'
-s = 'No Idea'
+url = 'https://www.hackerrank.com/challenges/py-set-intersection-operation/problem'
+n = '06'
+s = 'Set .intersection() Operation'
 
 
 # quietly create the directory if it doesn't exist
