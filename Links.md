@@ -85,6 +85,7 @@
 - [Nested list comprehension with two lists](https://stackoverflow.com/questions/16568056/nested-list-comprehension-with-two-lists)
 - [Using the Python zip() Function for Parallel Iteration – Real Python](https://realpython.com/python-zip-function/)
 - [Find average of a list in python - GeeksforGeeks](https://www.geeksforgeeks.org/find-average-list-python/)
+- [Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
 
 ## Challenge Websites
 
