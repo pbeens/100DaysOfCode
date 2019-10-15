@@ -119,3 +119,9 @@ Day 15 (Oct 14)
   - [https://twitter.com/pbeens/status/1183951280206573571](https://twitter.com/pbeens/status/1183951280206573571)
 
     > I've list a few challenges sites here: https://github.com/pbeens/100DaysOfCode/blob/master/Links.md#challenge-websites
+
+Day 16 (Oct 15)
+
+  - [https://twitter.com/pbeens/status/1184100306772082689](https://twitter.com/pbeens/status/1184100306772082689)
+
+    > Welcome to #100DaysOfCode! I'm considering looking into Flutter as well. What resources are you using to learn it?
