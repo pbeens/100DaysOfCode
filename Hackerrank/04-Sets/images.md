@@ -19,3 +19,4 @@
 ![05-Set-.union()-Operation](05-Set-.union()-Operation.png)
 
 ### 06-Set-.intersection()-Operation
+![06-Set-.intersection()-Operation](06-Set-.intersection()-Operation.png)
