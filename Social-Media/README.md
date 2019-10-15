@@ -116,5 +116,6 @@ Day 15 (Oct 14)
 
     > What are the highlights that you like about it? (Python 3.8)
 
+  - [https://twitter.com/pbeens/status/1183951280206573571](https://twitter.com/pbeens/status/1183951280206573571)
 
-  
+    > I've list a few challenges sites here: https://github.com/pbeens/100DaysOfCode/blob/master/Links.md#challenge-websites
