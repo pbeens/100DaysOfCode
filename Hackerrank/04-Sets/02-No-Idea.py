@@ -23,12 +23,12 @@ else:
     likes = set(input().split())
     dislikes = set(input().split())
 
-print('Method 1')
-start_time = time.time()
-for i in range(100000):
-    score = sum((n in likes) - (n in dislikes) for n in array)
-print(score)
-print("--- %s seconds ---" % (time.time() - start_time))
+# print('Method 1')
+# start_time = time.time()
+# for i in range(100000):
+#     score = sum((n in likes) - (n in dislikes) for n in array)
+# print(score)
+# print("--- %s seconds ---" % (time.time() - start_time))
 
 print('Method 2')
 start_time = time.time()
