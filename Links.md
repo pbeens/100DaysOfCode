@@ -15,6 +15,8 @@
   * [Python - General](#python---general)
   * [Python - Lists](#python---lists)
 - [Challenge Websites](#challenge-websites)
+- [VS Code](#vs-code)
+- [Flutter](#flutter)
 - [Personal](#personal)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -107,6 +109,10 @@
 - [SuperPasteURL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alincode.SuperPasteURL) (also [Paste URL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl))
 - [MarkDown Link Suggestions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
 - [markdownlint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+## Flutter
+
+- [Learn Flutter & Dart to Build iOS & Android Apps (Udemy)](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=ACAD_W1)
 
 ## Personal
 
