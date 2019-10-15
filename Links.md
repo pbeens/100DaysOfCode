@@ -109,6 +109,7 @@
 - [SuperPasteURL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alincode.SuperPasteURL) (also [Paste URL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl))
 - [MarkDown Link Suggestions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
 - [markdownlint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Jupyter Notebook in Visual Studio Code](https://towardsdatascience.com/jupyter-notebook-in-visual-studio-code-3fc21a36fe43)
 
 ## Flutter
 
