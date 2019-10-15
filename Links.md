@@ -91,7 +91,7 @@
 
 - [Python Morsels -- write better Python code](https://www.pythonmorsels.com)
 - [codechalleng.es](https://codechalleng.es/bites/1/)
-- [Project Euler](https://www.projecteuler.net/)
+- [Project Euler](https://www.projecteuler.net/) (See also [Project Euler @ FreeCodeCamp](https://learn.freecodecamp.org/coding-interview-prep/project-euler))
 - [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 - [HackerRank](https://www.hackerrank.com)
 - [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com/)
