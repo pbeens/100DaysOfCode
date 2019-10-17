@@ -33,3 +33,7 @@
 ## 09-Set-.discard(),-.remove()-&-.pop().py
 
 ![09-Set-.discard(),-.remove()-&-.pop()](09-Set-.discard(),-.remove()-&-.pop().png)
+
+## 10-The-Captain's-Room.py
+
+![10-The-Captain's-Room](10-The-Captain's-Room.png)

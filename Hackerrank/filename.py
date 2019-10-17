@@ -7,9 +7,9 @@ import string
 
 # update these variables with the challenge info
 folder = '04-Sets'
-url = 'https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem'
-n = '09'
-s = 'Set .discard(), .remove() & .pop()'
+url = 'https://www.hackerrank.com/challenges/py-the-captains-room/problem'
+n = '10'
+s = 'The Captain\'s Room'
 
 
 # quietly create the directory if it doesn't exist
