@@ -17,6 +17,10 @@
 1. Each line cannot have any trailing spaces.
 1. Use two spaces for an indent, not a tab.
 1. It's preferable to use a hyphen for unordered lists, even if asterisks work also. The Markdown linter will complain if you use different ones in your document.
+1. Comments should look like this for maximum platform compatibility ([source](https://stackoverflow.com/questions/4823468/comments-in-markdown/32190021#32190021)):
+    ```markdown
+    [comment]: # (This actually is the most platform independent comment)
+    ```
 
 ## Formatting:
 
