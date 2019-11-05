@@ -73,6 +73,7 @@
 - [Pythonforbeginners.com](https://www.pythonforbeginners.com/)
 - [Python Websites and Tutorials](https://www.pythonforbeginners.com/basics/python-websites-tutorials)
 - [How do I get time of a Python program's execution?](https://stackoverflow.com/questions/1557571/how-do-i-get-time-of-a-python-programs-execution)
+- [25 Useful Python Snippets to Help in Your Day-to-Day Work](https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b)
 
 ### Python - Lists
 
