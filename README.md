@@ -35,7 +35,7 @@ There are two primary rules:
 
 Truthfully, I don't think I'll be able to follow rule #1 (although I'll do my best), but rule #2 should be pretty easy to follow.
 
-This [article](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/), which is linked to from above on [freecodecamp.org](https://www.freecodecamp.org), has some additional rules, including:
+This [article](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/) on [freecodecamp.org](https://www.freecodecamp.org) which is linked to from above, has some additional rules, including:
 
 3. Coding at work can't count towards your time.
 4. Your daily code should be pushed to GitHub. (The creator's proposed GitHub template can be [forked](https://help.github.com/en/articles/fork-a-repo) from [here](https://github.com/kallaway/100-days-of-code).)
