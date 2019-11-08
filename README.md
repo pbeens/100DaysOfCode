@@ -91,7 +91,7 @@ I will start with the 'Add" challenge from [Python Morsels](https://www.pythonmo
 
 > Write a function that accepts two lists-of-lists of numbers and returns one list-of-lists with each of the corresponding numbers in the two given lists-of-lists added together.
 
-View my day 1-2 notes [here](Days/01/README.md). [[Folder Link](Days/01-02/)]
+View my day 1-2 notes [here](Days/01-02/README.md). [[Folder Link](Days/01-02/)]
 
 ### Day 2 - Bonus for Day 1 Challenge
 
